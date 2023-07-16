@@ -17,5 +17,4 @@ We welcome contributions from multimedia enthusiasts like you! If you have an in
 Resources
 Explore the "resources" directory for helpful tutorials, articles, and resources on multimedia technologies. Discover new techniques, algorithms, and tools to expand your knowledge and enhance your multimedia projects.
 
-Contact
-Have questions or ideas? Don't hesitate to reach out! Contact us through the repository's issue tracker or email us at [your email address]. Let's collaborate and showcase the endless possibilities of multimedia technologies!
+
